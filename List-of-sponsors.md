@@ -7,6 +7,7 @@ Thank you for donating to our instance.
 |29 Apr|Kyoki|£7.19|
 |19 May|Na-Hyeon Ham|$73.49|
 |04 Jul|Kyoki|£0.07|
+|22 Nov|세르(serphy)|£6.10|
 
 ## 2021y
 | Date | Name | Amount |
