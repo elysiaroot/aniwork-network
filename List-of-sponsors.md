@@ -8,6 +8,7 @@ Thank you for donating to our instance.
 |19 May|Na-Hyeon Ham|$73.49|PayPal|
 |04 Jul|Kyoki|£0.07|PayPal|
 |22 Nov|세르(serphy)|£6.10|PayPal|
+|22 Nov|Stypr|£23.40|PayPal|
 
 ## 2021y
 | Date | Name | Amount | Method |
