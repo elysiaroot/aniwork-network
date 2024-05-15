@@ -1,6 +1,11 @@
 # Aniwork Network List of sponsors
 Thank you for donating to our instance.
 
+## 2024y
+| Date | Name | Amount | Method |
+|------|------|--------|--------|
+|08 May|Na-Hyeon Ham|£2.36|PayPal|
+
 ## 2022y
 | Date | Name | Amount | Method |
 |------|------|--------|--------|
